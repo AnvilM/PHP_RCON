@@ -1,0 +1,10 @@
+{
+    "name": "anvilm/rcon",
+    "type": "package",
+    "description": "Rcon library for laravel",
+    "keywords": ["RCON"],
+    "license": "MIT",
+    "require": {
+        "php": "^8.1"
+    }
+}
