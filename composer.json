@@ -1,8 +1,8 @@
 {
     "name": "anvilm/rcon",
     "type": "package",
-    "description": "Rcon library for laravel",
-    "keywords": ["RCON"],
+    "description": "Minecraft Rcon library for laravel",
+    "keywords": ["RCON", "Minecarft"],
     "license": "MIT",
     "require": {
         "php": "^8.1"
