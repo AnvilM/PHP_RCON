@@ -4,20 +4,10 @@ Minecraft RCON lib for Laravel
 
 ## Install
 
-### Get package
-
 You can get this package using composer
 
 ```bash
 composer require anvilm/php_rcon
-```
-
-### Publish config
-
-Publish the configuration file (this will create a location.php file inside the config directory)
-
-```bash
-php artisan vendor:publish --provider="AnvilM\RCON\Providers\RCONServiceProvider"
 ```
 
 ## Configuration
