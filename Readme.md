@@ -7,7 +7,7 @@ Minecraft RCON lib for Laravel
 You can get this package using composer
 
 ```bash
-composer require anvilm/php_rcon
+composer require anvilm/rcon
 ```
 
 ## Configuration
