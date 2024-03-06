@@ -11,5 +11,12 @@
         "psr-4": {
             "AnvilM\\RCON\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AnvilM\\RCON||Providers\\RCONServiceProvider"
+            ]
+        }
     }
 }
