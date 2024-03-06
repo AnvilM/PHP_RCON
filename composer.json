@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "AnvilM\\RCON||Providers\\RCONServiceProvider"
+                "AnvilM\\RCON\\Providers\\RCONServiceProvider"
             ]
         }
     }
